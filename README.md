@@ -17,7 +17,7 @@ Test project, which implements CRUD operations and the ability to filter table d
 
 #### Some description about project structure:
 
-#### index.php - main page with list and forms for add new record to list of stations or cities
+#### index.php - ###### main page with list and forms for add new record to list of stations or cities
 #### process.php - PHP config file for connection to DB and requests. 
 #### info.php - info page with some description about project.
 #### ddtf.js - ready-to-use JS plugin to add filtering to the list.
