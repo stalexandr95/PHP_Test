@@ -1,0 +1,6 @@
+.ddtf-processed th.option-item > select{
+    display:none;
+}
+.ddtf-processed th.option-item > div{
+    display:block !important;
+}
